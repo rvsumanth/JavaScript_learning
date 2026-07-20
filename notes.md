@@ -129,3 +129,17 @@ Defines what kind of data it is
     n = 20 // Throws error cannot be updated
     ```
 ## Operators
+Operators are the special characters or symbols that performs specific necessary computational operations.
+- Arthematic operators
+  - Addition (+) : Adds the two numbers and returns the result value of an operation.
+  - Substraction (-) : Substracts the 2nd operand from the 1st operand and returns the value.
+  - Multiplication(*) : Multiplies the 1st operand with 2nd operand and return the value.
+  - Division (/): Divides the 1st operand with 2nd operand and returns the quotient value.
+  - Modulus (%): Divides the 1st operand with 2nd operand and returns the reminder value.
+  - Exponential (**): Raises the 1st operand with the power of 2nd operand and returns the value.
+  - Increment (++): 
+    - PostFix Incrementation(x++) - Returns the operand value and performs incrementation value after returning
+    - Prefix Incrementation(++x) - Perfoms Incrementation on operand and return value.
+  - Unirary Negation (-) : Converts the Non numbers into numbers and return the value.
+  - Unirary Plus (+) : Converts the Non number values into numbers and return the value but much more faster and prefered way.
+  - [Referance code](./JavaScript_operators/arithematic_operators.js)
